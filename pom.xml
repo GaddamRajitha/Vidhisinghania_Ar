@@ -96,7 +96,7 @@
 					<suiteXmlFiles>
 						
 						<suiteXmlFile>Executionfile5.xml</suiteXmlFile>
-						<suiteXmlFile>Executionfile6.xml</suiteXmlFile>
+						
 						
 					</suiteXmlFiles>
 				</configuration>
