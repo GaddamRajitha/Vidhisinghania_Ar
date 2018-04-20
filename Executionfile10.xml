@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+
+	<class name="com.create4.execution.PI_prjctsumry_dashb_TS_106">
+		<methods>
+			<include name="CRe4_393_394_395_396_397_398_399_400_401_402_403_404_413" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.PI_prjctnotif_dashb_TS_107">
+		<methods>
+			<include name="CRe4_405_406_407" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.PI_anuncmnt_dashb_TS_108">
+		<methods>
+			<include name="CRe4_408_409_410_411_412" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.Admin_Unapproved_dasb_TS_109">
+	
+		<methods>
+			<include name="CRe4_414_415_416_417_418_419_420_421_422_423_424_425_426_427_428_429" />
+
+		</methods>
+	</class>
+	
+	
+	<class name="com.create4.execution.Admin_ongng_dashb_TS_110">
+		<methods>
+			<include name="CRe4_430_to_448" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.Admin_upcmngmtng_dashb_TS_111">
+		<methods>
+			<include name="CRe4_449_450_451_452_453_454" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.Admin_anuncmnt_dashb_TS_114">
+		<methods>
+			<include name="CRe4_468_469_470_471_472" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.MS_Unapproved_dashb_TS_115">
+		<methods>
+			<include name="CRe4_473_to_486" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.MS_ongng_dashb_TS_116">
+		<methods>
+			<include name="CRe4_487_to_505" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.MS_upcmngmtng_dashb_TS_117">
+		<methods>
+			<include name="CRe4_506_to_510" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.MS_anuncmnt_dashb_TS_118">
+		<methods>
+			<include name="CRe4_511_512_514" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.CP_unapproved_dashb_TS_120">
+		<methods>
+			<include name="CRe4_519_520_521_522_523_524_525_526_527_528_529_530_531_532" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.CP_ongng_dashb_TS_121">
+		<methods>
+			<include name="CRe4_533_to_51" />
+
+		</methods>
+	</class>
+	<class name="com.create4.execution.CP_upcmngmtng_dashb_TS_122">
+		<methods>
+			<include name="CRe4_552_553_554_555_556" />
+
+		</methods>
+	</class>
+	<class name="com.create4.execution.CP_anuncmnt_dashb_TS_123">
+		<methods>
+			<include name="CRe4_557_558_559_560_561" />
+
+		</methods>
+	</class>
+	
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

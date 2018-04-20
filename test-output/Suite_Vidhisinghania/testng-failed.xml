@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite_Vidhisinghania]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.create4.execution.Amndexp_prjctstatus4_msdcsn_TS_52">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1310"/>
+          <include name="CRe4_1315"/>
+          <include name="CRe4_1325"/>
+          <include name="tearDown"/>
+          <include name="CRe4_1330"/>
+        </methods>
+      </class> <!-- com.create4.execution.Amndexp_prjctstatus4_msdcsn_TS_52 -->
+      <class name="com.create4.execution.SaeInt_prjctstatus4_msdcsn_TS_57">
+        <methods>
+          <include name="CRe4_1733"/>
+          <include name="CRe4_1680"/>
+          <include name="tearDown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.SaeInt_prjctstatus4_msdcsn_TS_57 -->
+      <class name="com.create4.execution.Amnd_substat_msdecsn_TS_176">
+        <methods>
+          <include name="CRe4_1313"/>
+          <include name="tearDown"/>
+          <include name="CRe4_1333"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1328"/>
+          <include name="CRe4_1318"/>
+        </methods>
+      </class> <!-- com.create4.execution.Amnd_substat_msdecsn_TS_176 -->
+      <class name="com.create4.execution.With_docstat_msdcsn_TS_90">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1891_94_96_98"/>
+        </methods>
+      </class> <!-- com.create4.execution.With_docstat_msdcsn_TS_90 -->
+      <class name="com.create4.execution.Saeothrexp_prjctstatus4_msdcsn_TS_59">
+        <methods>
+          <include name="CRe4_1883"/>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.Saeothrexp_prjctstatus4_msdcsn_TS_59 -->
+      <class name="com.create4.execution.Amnd_docstat_msdcsn_TS_82">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1302_05_07_09"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.Amnd_docstat_msdcsn_TS_82 -->
+      <class name="com.create4.execution.Compexp_prjctstatus4_msdcsn_TS_55">
+        <methods>
+          <include name="CRe4_1537"/>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+          <include name="CRe4_1522"/>
+        </methods>
+      </class> <!-- com.create4.execution.Compexp_prjctstatus4_msdcsn_TS_55 -->
+      <class name="com.create4.execution.Int_prjctflw_queryreply_TS_164">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+          <include name="CRe4_1268"/>
+        </methods>
+      </class> <!-- com.create4.execution.Int_prjctflw_queryreply_TS_164 -->
+      <class name="com.create4.execution.Saefllwexp_prjctstatus4_msdcsn_TS_58">
+        <methods>
+          <include name="tearDown"/>
+          <include name="CRe4_1807"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.Saefllwexp_prjctstatus4_msdcsn_TS_58 -->
+      <class name="com.create4.execution.Withdraw_prjctstatus4_msdcsn_TS_60">
+        <methods>
+          <include name="CRe4_1899"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1904"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.Withdraw_prjctstatus4_msdcsn_TS_60 -->
+      <class name="com.create4.execution.Dev_docstat_msdcsn_TS_83">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1381_84_86_88"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.Dev_docstat_msdcsn_TS_83 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite_Vidhisinghania] -->

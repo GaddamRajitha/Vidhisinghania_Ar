@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite (0)]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.create4.execution.Withdraw_prjctstatus4_msdcsn_TS_60">
+        <methods>
+          <include name="CRe4_1899"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1904"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.Withdraw_prjctstatus4_msdcsn_TS_60 -->
+      <class name="com.create4.execution.Withexp_prjctstatus4_msdcsn_TS_51">
+        <methods>
+          <include name="CRe4_1226"/>
+          <include name="CRe4_1221"/>
+          <include name="CRe4_1246"/>
+          <include name="tearDown"/>
+          <include name="CRe4_1231"/>
+          <include name="CRe4_1251"/>
+          <include name="CRe4_1241"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1236"/>
+        </methods>
+      </class> <!-- com.create4.execution.Withexp_prjctstatus4_msdcsn_TS_51 -->
+      <class name="com.create4.execution.Devexp_prjctstatus4_msdcsn_TS_53">
+        <methods>
+          <include name="CRe4_1389"/>
+          <include name="CRe4_1399"/>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+          <include name="CRe4_1404"/>
+          <include name="CRe4_1394"/>
+          <include name="CRe4_1409"/>
+        </methods>
+      </class> <!-- com.create4.execution.Devexp_prjctstatus4_msdcsn_TS_53 -->
+      <class name="com.create4.execution.Termexp_prjctstatus4_msdcsn_TS_56">
+        <methods>
+          <include name="tearDown"/>
+          <include name="CRe4_1601"/>
+          <include name="CRe4_1616"/>
+          <include name="CRe4_1611"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1606"/>
+        </methods>
+      </class> <!-- com.create4.execution.Termexp_prjctstatus4_msdcsn_TS_56 -->
+      <class name="com.create4.execution.Compexp_prjctstatus4_msdcsn_TS_55">
+        <methods>
+          <include name="CRe4_1537"/>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+          <include name="CRe4_1527"/>
+          <include name="CRe4_1522"/>
+          <include name="CRe4_1532"/>
+        </methods>
+      </class> <!-- com.create4.execution.Compexp_prjctstatus4_msdcsn_TS_55 -->
+      <class name="com.create4.execution.Amndexp_prjctstatus4_msdcsn_TS_52">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1310"/>
+          <include name="CRe4_1320"/>
+          <include name="CRe4_1315"/>
+          <include name="CRe4_1325"/>
+          <include name="tearDown"/>
+          <include name="CRe4_1330"/>
+        </methods>
+      </class> <!-- com.create4.execution.Amndexp_prjctstatus4_msdcsn_TS_52 -->
+      <class name="com.create4.execution.Conexp_prjctstatus4_msdcsn_TS_54">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1448"/>
+          <include name="tearDown"/>
+          <include name="CRe4_1443"/>
+          <include name="CRe4_1453"/>
+          <include name="CRe4_1458"/>
+        </methods>
+      </class> <!-- com.create4.execution.Conexp_prjctstatus4_msdcsn_TS_54 -->
+      <class name="com.create4.execution.Saefllwexp_prjctstatus4_msdcsn_TS_58">
+        <methods>
+          <include name="tearDown"/>
+          <include name="CRe4_1754"/>
+          <include name="CRe4_1812"/>
+          <include name="CRe4_1749"/>
+          <include name="CRe4_1807"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.Saefllwexp_prjctstatus4_msdcsn_TS_58 -->
+      <class name="com.create4.execution.Saeothrexp_prjctstatus4_msdcsn_TS_59">
+        <methods>
+          <include name="CRe4_1833"/>
+          <include name="CRe4_1883"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1828"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.Saeothrexp_prjctstatus4_msdcsn_TS_59 -->
+      <class name="com.create4.execution.SaeInt_prjctstatus4_msdcsn_TS_57">
+        <methods>
+          <include name="CRe4_1733"/>
+          <include name="CRe4_1680"/>
+          <include name="tearDown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.SaeInt_prjctstatus4_msdcsn_TS_57 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite (0)] -->

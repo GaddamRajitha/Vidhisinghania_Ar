@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.create4.execution.Dev_docstat_msdcsn_TS_83">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1381_84_86_88"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.Dev_docstat_msdcsn_TS_83 -->
+      <class name="com.create4.execution.Int_docstat_msdcsn_TS_81">
+        <methods>
+          <include name="tearDown"/>
+          <include name="CRe4_1213_to_1220"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.Int_docstat_msdcsn_TS_81 -->
+      <class name="com.create4.execution.Term_docstat_msdcsn_TS_86">
+        <methods>
+          <include name="tearDown"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1593_96_98_60"/>
+        </methods>
+      </class> <!-- com.create4.execution.Term_docstat_msdcsn_TS_86 -->
+      <class name="com.create4.execution.With_docstat_msdcsn_TS_90">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1891_94_96_98"/>
+        </methods>
+      </class> <!-- com.create4.execution.With_docstat_msdcsn_TS_90 -->
+      <class name="com.create4.execution.Comp_docstat_msdcsn_TS_85">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1514_17_19_21"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.Comp_docstat_msdcsn_TS_85 -->
+      <class name="com.create4.execution.Amnd_docstat_msdcsn_TS_82">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1302_05_07_09"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.Amnd_docstat_msdcsn_TS_82 -->
+      <class name="com.create4.execution.Saeothr_docstat_msdcsn_TS_89">
+        <methods>
+          <include name="CRe4_1820_23_25_27"/>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.Saeothr_docstat_msdcsn_TS_89 -->
+      <class name="com.create4.execution.Saefllw_docstat_msdcsn_TS_88">
+        <methods>
+          <include name="CRe4_1741_44_46_48"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.Saefllw_docstat_msdcsn_TS_88 -->
+      <class name="com.create4.execution.Saeint_docstat_msdcsn_TS_87">
+        <methods>
+          <include name="CRe4_1672_75_77_79"/>
+          <include name="tearDown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.Saeint_docstat_msdcsn_TS_87 -->
+      <class name="com.create4.execution.Cont_docstat_msdcsn_TS_84">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1435_38_40_42"/>
+        </methods>
+      </class> <!-- com.create4.execution.Cont_docstat_msdcsn_TS_84 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

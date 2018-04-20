@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37968" started-at="2018-04-10T13:22:35Z" finished-at="2018-04-10T13:23:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37968" started-at="2018-04-10T13:22:35Z" finished-at="2018-04-10T13:23:13Z">
+      <class name="com.create4.execution.SOP_add_TS_06A">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.create4.execution.SOP_add_TS_06A@5c3bd550]" name="beforeMethod" is-config="true" duration-ms="9796" started-at="2018-04-10T18:52:35Z" finished-at="2018-04-10T18:52:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="CRe4_883()[pri:0, instance:com.create4.execution.SOP_add_TS_06A@5c3bd550]" name="CRe4_883" duration-ms="28125" started-at="2018-04-10T18:52:45Z" finished-at="2018-04-10T18:53:13Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [tye5 - SOP is created successfully] but found [Upload SOP field is required!]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [tye5 - SOP is created successfully] but found [Upload SOP field is required!]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:134)
+	at org.testng.Assert.assertEquals(Assert.java:115)
+	at org.testng.Assert.assertEquals(Assert.java:189)
+	at org.testng.Assert.assertEquals(Assert.java:199)
+	at com.create4.scenarios.TS_06A.CRe4_883(TS_06A.java:446)
+	at com.create4.execution.SOP_add_TS_06A.CRe4_883(SOP_add_TS_06A.java:95)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CRe4_883 -->
+      </class> <!-- com.create4.execution.SOP_add_TS_06A -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
